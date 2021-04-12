@@ -1,0 +1,67 @@
+[
+ {
+  "station id": 1,
+  "type": "Conveyor_JD",
+  "location": {
+   "x": 7.29,
+   "y": 6.07
+  },
+  "order slot number": 60,
+  "single-item order slot limit": 0,
+  "single-item order only": false,
+  "load state id": 85,
+  "unload state id": 59
+ },
+ {
+  "station id": 2,
+  "type": "Conveyor_JD",
+  "location": {
+   "x": 14.09,
+   "y": 6.07
+  },
+  "order slot number": 60,
+  "single-item order slot limit": 0,
+  "single-item order only": false,
+  "load state id": 60,
+  "unload state id": 76
+ },
+ {
+  "station id": 3,
+  "type": "Conveyor_JD",
+  "location": {
+   "x": 22.02,
+   "y": 21.41
+  },
+  "order slot number": 60,
+  "single-item order slot limit": 0,
+  "single-item order only": false,
+  "load state id": 152,
+  "unload state id": 146
+ },
+ {
+  "station id": 4,
+  "type": "Conveyor_JD",
+  "location": {
+   "x": 22.02,
+   "y": 14.61
+  },
+  "order slot number": 60,
+  "single-item order slot limit": 0,
+  "single-item order only": false,
+  "load state id": 138,
+  "unload state id": 131
+ },
+ {
+  "station id": 5,
+  "type": "Conveyor_JD",
+  "location": {
+   "x": 22.02,
+   "y": 7.81
+  },
+  "order slot number": 60,
+  "single-item order slot limit": 0,
+  "single-item order only": false,
+  "load state id": 180,
+  "unload state id": 174
+ }
+]
